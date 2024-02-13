@@ -1,15 +1,15 @@
-## run these commands in the terminal at the base directory of the project
-# installing libraries
+
+# Installing libraries
     '''
         pip install -r requirements.txt
     '''
 
-# migrate database
+# Migrate database
     '''
         python manage.py migrate
     '''
 
-# start server
+# Start server
     '''
         python manage.py runserver
     '''
